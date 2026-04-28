@@ -1,13 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Saheel%20Ahamed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=🌐%20Aspiring%20Network%20Engineer%20|%20Frontend%20Developer&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Saheel%20Ahamed&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=🌐%20Aspiring%20Network%20Engineer%20|%20Frontend%20Developer&descAlignY=58&descSize=14)
 
 <a href="https://www.linkedin.com/in/saheel-ahamed02" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/saheel-150">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -15,8 +17,6 @@
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🙋‍♂️ About Me
 
@@ -54,12 +54,15 @@ Goal     : Land my first tech role 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saheel-150&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saheel-150&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saheel-150&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheel-150&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=saheel-150&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheel-150&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 ---
@@ -67,7 +70,7 @@ Goal     : Land my first tech role 🚀
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saheel-150&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saheel-150&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8"/>
 </p>
 
 ---
@@ -75,13 +78,13 @@ Goal     : Land my first tech role 🚀
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saheel-150&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saheel-150&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saheel-150&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=saheel-150&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer)
 </div>
