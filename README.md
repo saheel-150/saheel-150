@@ -1,29 +1,42 @@
-<h1 align="center">Hi 👋, I'm Saheel Ahamed</h1>
-<h3 align="center">🌐 Aspiring Network Engineer | Passionate about Web & Networking Technologies</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saheel-ahamed02" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Saheel%20Ahamed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=🌐%20Aspiring%20Network%20Engineer%20|%20Frontend%20Developer&descAlignY=58&descSize=16)
 
----
+<a href="https://www.linkedin.com/in/saheel-ahamed02" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/saheel-150">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🙋‍♂️ About Me:
-
-- 🎓 I'm a **fresher** actively looking for opportunities in **Networking & Frontend Development**
-- 🌱 Currently learning **HTML, CSS, JavaScript, React & Networking fundamentals**
-- 💡 I enjoy building projects and sharpening my skills every day
-- 🤝 Open to **internships, entry-level roles & collaborations**
-- 💬 Ask me about **Frontend Development & Computer Networks**
-- ⚡ Fun fact: Every expert was once a beginner — and I'm just getting started!
+</div>
 
 ---
 
-### 🛠️ Tech Stack:
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 🙋‍♂️ About Me
+
+```yaml
+Name     : Saheel Ahamed
+Status   : Fresher | Open to Opportunities
+Focus    : Frontend Dev + Networking
+Learning : HTML · CSS · JS · React · Cisco
+Goal     : Land my first tech role 🚀
+```
+
+- 🎓 Fresh graduate actively seeking **internships & entry-level roles**
+- 🌱 Currently sharpening skills in **React & Computer Networks**
+- 💡 I love building projects and learning something new every day
+- 🤝 Open to **collaborations and open source contributions**
+- ⚡ *Every expert was once a beginner — I'm just getting started!*
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,30 +51,37 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saheel-150&show_icons=true&theme=tokyonight&hide_border=true" alt="Saheel's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheel-150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saheel-150&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=saheel-150&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saheel-150&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saheel-150&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saheel-150&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
 </p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheel-150&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saheel-150&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saheel-150&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saheel-150&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer)
+</div>
