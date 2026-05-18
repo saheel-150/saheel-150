@@ -23,8 +23,8 @@
 ```yaml
 Name     : Saheel Ahamed
 Status   : Fresher | Open to Opportunities
-Focus    : Frontend Dev + Networking
-Learning : HTML · CSS · JS · React · Cisco
+Focus    : Analytics + Networking
+Learning : Python . SQL · Power BI · Cisco
 Goal     : Land my first tech role 🚀
 ```
 
