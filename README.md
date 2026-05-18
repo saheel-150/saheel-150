@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Saheel%20Ahamed&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=🌐%20Aspiring%20Network%20Engineer%20|%20Analytics%20Developer&descAlignY=58&descSize=14)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Saheel%20Ahamed&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=🌐%20Aspiring%20Network%20Engineer%20|%20Analytics&descAlignY=58&descSize=14)
 
 <a href="https://www.linkedin.com/in/saheel-ahamed02" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
